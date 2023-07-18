@@ -26,7 +26,8 @@ Some highlight features:
 ## Useful Links
 
 - [Installation Instruction](https://topjohnwu.github.io/Magisk/install.html)
-- [Building and Development](https://topjohnwu.github.io/Magisk/build.html)
+- [Building and Development](https://topjohnwu.github.io/Magis
+k/build.html)
 - [Magisk Documentation](https://topjohnwu.github.io/Magisk/)
 
 ## Bug Reports
